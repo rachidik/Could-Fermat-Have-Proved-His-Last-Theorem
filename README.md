@@ -10,6 +10,18 @@ The results show that every classical method has a limit that can be proved. Con
 
 ---
 
+# Résumé (Français)
+
+Le dernier théorème de Fermat affirme que l'équation xⁿ + yⁿ = zⁿ n'admet aucune solution en entiers strictement positifs lorsque n > 2. Vers 1637, Pierre de Fermat écrivit dans la marge de son exemplaire de l'*Arithmétique* de Diophante qu'il en avait trouvé une démonstration véritablement merveilleuse, mais que la marge était trop étroite pour la contenir. Cette démonstration n'a jamais été retrouvée. Le théorème est resté ouvert pendant plus de 350 ans, jusqu'à ce qu'Andrew Wiles le démontre en 1994–1995 à l'aide des courbes elliptiques, des formes modulaires et des représentations galoisiennes. Aucun de ces outils n'existait à l'époque de Fermat.
+
+Cet article ne reproduit pas la démonstration de Wiles. Il pose une autre question : à supposer que l'affirmation de Fermat ait été sincère, un mathématicien ayant vécu entre le XVIᵉ et le XIXᵉ siècle aurait-il pu démontrer le théorème avec les seules méthodes et notations de son temps ? Pour y répondre, l'étude se limite aux outils dont on peut établir qu'ils sont antérieurs à 1900, et elle date chacun d'eux. Elle examine ensuite tour à tour les principales approches classiques : la descente infinie, les réductions élémentaires aux exposants premiers, la méthode des congruences de Sophie Germain et la factorisation, depuis l'argument erroné de Lamé jusqu'à la théorie des nombres idéaux de Kummer. Elle présente des démonstrations complètes, n'utilisant que des outils antérieurs à 1900, pour les exposants 4 et 3, pour le théorème de Germain et pour le premier cas de Kummer relatif aux nombres premiers réguliers. Elle reconstruit enfin, étape par étape, la stratégie de démonstration la plus solide dont on disposait avant 1900, et identifie le point précis où elle échoue.
+
+Les résultats montrent que chaque méthode classique se heurte à une limite que l'on peut démontrer. Les arguments par congruences permettent seulement d'établir qu'un nombre fixé divise xyz. La méthode de Kummer échoue pour les nombres premiers irréguliers, dont les premiers sont 37, 59 et 67, et la proportion de nombres premiers irréguliers ne diminue pas à mesure que les nombres premiers grandissent. L'étude conclut qu'aucune démonstration complète fondée uniquement sur les mathématiques antérieures à 1900 n'est connue, et que Fermat n'en possédait très probablement pas. Comme on ne peut pas démontrer rigoureusement qu'une telle démonstration est impossible, l'article s'en tient aux limites démontrées des méthodes classiques. Tout au long du texte, chaque affirmation est qualifiée de fait historique, de mathématiques établies, de reconstruction hypothétique ou de spéculation.
+
+**Mots-clés :** dernier théorème de Fermat, descente infinie, équations diophantiennes, Sophie Germain, Kummer, nombres idéaux, nombres premiers réguliers, histoire des mathématiques.
+
+---
+
 <div dir="rtl" lang="ar">
 
 # الملخص (العربية)
